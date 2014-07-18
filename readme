@@ -1,0 +1,16 @@
+Mac Stephen
+July 2014
+
+
+
+
+Blinkonoff is a simple python script that tests LED circuits controlled
+by the GPIO on a raspberrypi. It is meant to be a simple means of testing 
+and learning.  It uses GPIO pin 7 but that can easily be changed.
+
+commands
+
+on : turn led on 
+off : turn led off
+blink : blink the led for a little bit
+quit : quit the program
